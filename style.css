@@ -1,13 +1,14 @@
 body
 {
-    background-color: #101822;
+    background-color: #f6f8f9;
+    width: fit-content;
 
 }
 
 .flex-container
 {
     justify-content: center;
-    padding: 10px;
+    
     background-color:#101822;
     
     
@@ -20,8 +21,8 @@ body
     font-size: 25px;
     justify-content:space-between;
     padding-top: 5px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 100px;
+  
     
     
 }
@@ -31,7 +32,7 @@ body
     font-size: 18px;
     display: flex;
     gap: 40px;
-    padding-left: 580px; 
+ 
 }
 
 .flex2
@@ -39,8 +40,6 @@ body
     color: white;
     display: flex;
     padding: 50px;
-    padding-left: 200px;
-    padding-right: 100px;
     background-color: rgb(31, 41, 55);
     padding-bottom: 100px;
 }
@@ -84,7 +83,7 @@ button
 }
 .placeholder
 {   
-    padding-left: 50px;
+  
     
 }
 
@@ -152,8 +151,8 @@ img
     font-style: italic;
     color: #1f2937;
     padding-top: 100px;
-    padding-left: 360px;
-    padding-right: 300px;
+    padding-left: 160px;
+    padding-right: 100px;
 }
 .author
 { 
